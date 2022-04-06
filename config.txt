@@ -1,0 +1,1 @@
+Pkgs = [["samba_1_2", "samba_devel_1_2"], "nscd", ["kernel_5_6", "kernel-devel_5_6", "kernel-headers_5_6"]]
